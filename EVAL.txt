@@ -1,0 +1,11 @@
+Bugs connus:
+
+Bugs possible en cas de perte de paquet (rajouter cette gestion)
+
+Evolution possible:
+
+- Gestion de la perte de paquet.
+
+- Ecrire et récuperer les questions côté serveur dans un fichier et non dans le code.
+
+- Mettre une fin de jeu lors de la fin d'une boucle de question (lorsqu'il y aura assez de question).
